@@ -12,7 +12,6 @@
 
 #  Hello! Welcome to my GitHub profile! | Olá! Seja bem-vindo ao meu perfil do GitHub! |
  ##  My name is Biaggio Rizzo! | Meu nome é Biaggio Rizzo! | 
-  ---
  ##  About me | Sobre mim |:
   ###  🔎 I'm a Back-End / Systems Analyst from Brazil. I'm 21 years old and studying in Veiga de Almeida college. I like to study about technology, learn new things and work with teams. 
   ###  🔎 | Sou Back-End / Analista de Sistemas do Brasil. Tenho 21 anos e estudo na faculdade Veiga de Almeida. Gosto de estudar sobre tecnologia, aprender coisas novas e trabalhar em equipe. |
